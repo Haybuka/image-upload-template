@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { FormikProvider, useFormik } from 'formik';
 import { useDropzone } from 'react-dropzone';
 import { Icon } from '@iconify/react';
